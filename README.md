@@ -5,7 +5,7 @@ Code files referred here are in the "Final Project Code" folder.
 ## Overview
 This repository contains code for experimenting with quantum convolutional neural networks using PennyLane, TensorFlow, and Qiskit. The experiments involve applying quantum convolutions to the Fashion MNIST dataset and comparing the performance with classical convolutional neural networks.
 
-## File: Quanvolutional Neural Networks Experimentation (1).py
+## File: Quanvolutional Neural Networks Experimentation.ipynb
 
 ### Instructions
 
@@ -86,7 +86,7 @@ To run the code and obtain results for different kernel sizes, follow these step
    - Run this section after storing the values in the above respective variables.
    - Run the section titled "Plotting code for all the three kernels + CNN with quantum convolution" to visualize the results.
 
-## File: Quanvolutional Neural Networks Experimentation (2).py
+## File: Experimentations on a real IBM quantum device.ipynb
 
 ### Instructions
 
